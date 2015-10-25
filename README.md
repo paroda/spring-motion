@@ -1,6 +1,6 @@
 # spring-motion
 
-A clojurescript library to create Om animation components using spring physics. Similar to [react-motion] (https://github.com/chenglou/react-motion) by Cheng Lou.
+A clojurescript library to create Om animation components using spring physics. Similar to [chenglou/react-motion] (https://github.com/chenglou/react-motion), a React library.
 
 
 
