@@ -1,6 +1,6 @@
 # spring-motion
 
-FIXME: Write a one-line description of your library/project.
+A clojurescript library to create Om animation components using spring physics. Similar to [react-motion] (https://github.com/chenglou/react-motion) by Cheng Lou.
 
 ## Overview
 
