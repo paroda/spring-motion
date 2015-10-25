@@ -7,9 +7,13 @@ A clojurescript library to create Om animation components using spring physics. 
 ## Examples
 
 [Draggable List] (http://paroda.github.io/spring-motion/examples/draglist)
+
 [Todo List] (http://paroda.github.io/spring-motion/examples/todolist)
+
 [Ripples] (http://paroda.github.io/spring-motion/examples/ripples)
+
 [Spring Parameter] (http://paroda.github.io/spring-motion/examples/springs)
+
 [Staggered Motion] (http://paroda.github.io/spring-motion/examples/staggered)
 
 
