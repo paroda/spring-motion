@@ -21,7 +21,7 @@
 (defn spring
   "The utility to specify spring settings.
   target: the final value at the end of animation
-  [stiffness damping]: optional, default [50 10]"
+  [stiffness damping]: optional, default [170 26]"
   ([target]
    ^:spring {:target target
               :stiffness 170
